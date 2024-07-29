@@ -23,7 +23,6 @@ This notebook analyzes the relationship between college majors, starting and mid
 - numpy
 - matplotlib
 - seaborn
-- fuzzywuzzy
 - scikit-learn
 
 ## Files in the Repository
